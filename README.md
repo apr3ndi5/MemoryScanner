@@ -22,6 +22,7 @@ você também pode abrir o programa com argumentos, diretamente com o pid e o en
 
 
 ## Como usar ?
+
 1° = Escreva o valor do pid referente ao programa em que você quer fazer a manipulação da memoria
 2° = Escolha o valor que você quer pesquisar(int)
 3° = Após escolher o valor escolha se você quer fazer NextScan, Write ou NewScan. 
